@@ -5,6 +5,10 @@
 * <a href="#Luhn-Checksum">Luhn-Checksum</a>
 * <a href="#Password-Manager">Password-Manager</a>
 * <a href="#Git-Manager">Git-Manager</a>
+* <a href="#Application Manager-for-debian-based-linux-systems">Application Manager-for-debian-based-linux-systems</a>
+* <a href="#kernel_module"> Simple Linux Kernel Module </a>
+* <a href="#HTML2TEXT">HTML2TEXT</a>
+* <a href="#PDFtoTEXT">PDFtoTEXT</a>
 
 <h3 id="AntiCensorship-Tool">AntiCensorship-Tool</h3>
 
@@ -53,3 +57,35 @@ A simple tool to make git less tiresome
 
 Developed by: [ Gowtham S](https://github.com/gowtham758550)
 <br>Click <a href="https://github.com/gowtham758550/Git-Manager" target="_blank">here</a> to see the repository 
+
+<h3 id="Application Manager-for-debian-based-linux-systems">Application Manager-for-debian-based-linux-systems</h3>
+
+<img src="https://github.com/Anish-M-code/Application-Manager-for-debian-based-linux-systems/raw/master/screenshot.png">
+
+A simple C++ program for easy Application management to easily install, update and remove software in Debian based Linux Operating Systems.
+
+Developed by: [ Anish M ](https://github.com/Anish-M-code)
+<br>Click <a href="https://github.com/Anish-M-code/Application-Manager-for-debian-based-linux-systems" target="_blank">here</a> to see the repository 
+
+<h3 id="kernel_module">Basic Linux Kernel module </h3>
+
+A simple Linux Kernel module for beginners.
+
+Developed by: [ Anish M ](https://github.com/Anish-M-code)
+<br>Click <a href="https://github.com/Anish-M-code/Kernel_module" target="_blank">here</a> to see the repository 
+
+<h3 id="HTML2TEXT">HTML2TEXT</h3>
+
+A simple Python Program to remove HTML Tags from HTML Files in an attempt to make HTML2TEXT conversion Easier.
+
+Developed by: [ Anish M ](https://github.com/Anish-M-code)
+<br>Click <a href="https://github.com/Anish-M-code/HTML2TEXT" target="_blank">here</a> to see the repository 
+
+<h3 id="PDFtoTEXT">PDFtoTEXT</h3>
+
+A simple PDF2TEXT conversion tool for UBUNTU/DEBIAN based distros using poppler-utils and Google's tesseract-ocr.
+
+Developed by: [ Anish M ](https://github.com/Anish-M-code)
+<br>Click <a href="https://github.com/Anish-M-code/PDFtoTEXT" target="_blank">here</a> to see the repository 
+
+
