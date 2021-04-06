@@ -8,7 +8,6 @@
 Practice for basic Machine learning concepts.
 
 Developed by: [ Gowtham S](https://github.com/gowtham758550)
-
 <br>Click <a href="https://github.com/gowtham758550/Machine-Learning" target="_blank">here</a> to see the repository
 
 <h3 id="Linear-Regression-From-Scratch">Linear-Regression-From-Scratch</h3>
