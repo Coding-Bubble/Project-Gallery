@@ -12,7 +12,7 @@
 
 A Simple difficult to block AntiCensorship Tool developed using C/C++ Programming Language for Windows To unblock websites which are blocked.
 
-Developed by: ![ Anish M ](https://github.com/Anish-M-code)
+Developed by: [ Anish M ](https://github.com/Anish-M-code)
 <br>Click <a href="https://github.com/Anish-M-code/AntiCensorship-Tool-or-Website-Unblocker" target="_blank">here</a> to see the repository 
 
 <h3 id="Leaky-LAN">Leaky-LAN</h3>
@@ -21,7 +21,7 @@ Developed by: ![ Anish M ](https://github.com/Anish-M-code)
 
 Simple file sharing service in LAN for windows and Linux systems which have python3 installed. 
 
-Developed by: ![ Anish M ](https://github.com/Anish-M-code)
+Developed by: [ Anish M ](https://github.com/Anish-M-code)
 <br>Click <a href="https://github.com/Anish-M-code/Leaky-LAN" target="_blank">here</a> to see the repository 
 
 
@@ -31,7 +31,7 @@ Developed by: ![ Anish M ](https://github.com/Anish-M-code)
 
 Implementation of checksum algorithm in python to validate credit and debit card.
 
-Developed by: ![ Gowtham S](https://github.com/gowtham758550)
+Developed by: [ Gowtham S](https://github.com/gowtham758550)
 <br>Click <a href="https://github.com/gowtham758550/Luhn-Checksum" target="_blank">here</a> to see the repository 
 
 
@@ -41,7 +41,7 @@ Developed by: ![ Gowtham S](https://github.com/gowtham758550)
 
 Offline password manager with some basic encryption.
 
-Developed by: ![ Gowtham S](https://github.com/gowtham758550) ![ Anish M ](https://github.com/Anish-M-code) ![ Raagul ](https://github.com/Raagul26)
+Developed by: [ Gowtham S](https://github.com/gowtham758550) [ Anish M ](https://github.com/Anish-M-code) [ Raagul ](https://github.com/Raagul26)
 <br>Click <a href="https://github.com/gowtham758550/password-generator-and-manager" target="_blank">here</a> to see the repository 
 
 
@@ -51,5 +51,5 @@ Developed by: ![ Gowtham S](https://github.com/gowtham758550) ![ Anish M ](https
 
 A simple tool to make git less tiresome
 
-Developed by: ![ Gowtham S](https://github.com/gowtham758550)
+Developed by: [ Gowtham S](https://github.com/gowtham758550)
 <br>Click <a href="https://github.com/gowtham758550/Git-Manager" target="_blank">here</a> to see the repository 
