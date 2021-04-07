@@ -3,8 +3,8 @@
 * <a href="#Share-Secrets">Share-Secrets</a>
 * <a href="#Pypass">Pypass</a>
 * <a href="#Password-Manager">Password-Manager</a>
-* <a href="#Encrypt-Decrypt-Files">Encrypt-Decrypt-Files</a>
 * <a href="#Simple-gpg">Simple-gpg</a>
+* <a href="#Encrypt-Decrypt-Files">Encrypt-Decrypt-Files</a>
 
 <h3 id="Share-Secrets">Share-Secrets</h3>
 
@@ -31,13 +31,6 @@ Developed by: [ Anish M ](https://github.com/Anish-M-code)
 Developed by: [ Gowtham S ](https://github.com/gowtham758550)
 <br>Click <a href="" target="_blank">here</a> to see the repository
 
-<h3 id="Encrypt-Decrypt-Files">Encrypt-Decrypt-Files</h3>
-
-It takes just 5 seconds to make all files useless in your PC.
-
-Developed by: [ Arun S ](https://github.com/nuras1999)
-<br>Click <a href="" target="_blank">here</a> to see the repository 
-
 <h3 id="Simple-gpg">Simple-gpg</h3>
 
 <img src="https://github.com/Anish-M-code/simple-gpg/raw/master/screenshots/simplegpg.png">
@@ -45,4 +38,11 @@ Developed by: [ Arun S ](https://github.com/nuras1999)
 A simple Commandline Program Developed Using Python3 to make GNU Privacy Guard Program easy to use for beginners.
 
 Developed by: [ Anish M ](https://github.com/Anish-M-code)
-<br>Click <a href="" target="_blank">here</a> to see the repository  
+<br>Click <a href="" target="_blank">here</a> to see the repository
+
+<h3 id="Encrypt-Decrypt-Files">Encrypt-Decrypt-Files</h3>
+
+It takes just 5 seconds to make all files useless in your PC.
+
+Developed by: [ Arun S ](https://github.com/nuras1999)
+<br>Click <a href="" target="_blank">here</a> to see the repository 
