@@ -10,7 +10,9 @@
 * <a href="#HTML2TEXT">HTML2TEXT</a>
 * <a href="#PDFtoTEXT">PDFtoTEXT</a>
 * <a href="#personal-care-taker">personal-care-taker</a> 
-
+* <a href="#evote-python-software">evote-python-software</a>
+* <a href="#daily-life-motivation">daily-life-motivation</a> 
+* <a href="#speed-typing-practice">speed-typing-practice</a> 
 
 <h3 id="AntiCensorship-Tool">AntiCensorship-Tool</h3>
 
@@ -96,3 +98,24 @@ She takes care of your health
 
 Developed by: [Arun S](https://github.com/nuras1999)
 <br>Click <a href="https://github.com/nuras1999/personal-care-taker" target="_blank">here</a> to see the repository 
+
+<h3 id="evote-python-software">evote-python-software</h3>
+
+eVote software for college elections
+
+Developed by: [Arun S](https://github.com/nuras1999)
+<br>Click <a href="https://github.com/nuras1999/evote-python-software" target="_blank">here</a> to see the repository
+
+<h3 id="daily-life-motivation">daily-life-motivation</h3>
+
+Motivate yourself whenever you start working
+
+Developed by: [Arun S](https://github.com/nuras1999)
+<br>Click <a href="https://github.com/nuras1999/daily-life-motivation" target="_blank">here</a> to see the repository
+
+<h3 id="speed-typing-practice">speed-typing-practice</h3>
+
+Stop worrying about your slow typing speed
+
+Developed by: [Arun S](https://github.com/nuras1999)
+<br>Click <a href="https://github.com/nuras1999/speed-typing-practice" target="_blank">here</a> to see the repository 
