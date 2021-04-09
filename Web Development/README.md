@@ -2,6 +2,7 @@
 
 * <a href="#News-Deme">News-Deme</a>
 * <a href="#simple-javascript-examples">simple-javascript-examples</a> 
+* <a href="#LMS using Python Django">LMS using Python Django</a>
 
 <h3 id="News-Deme">News-Deme</h3>
 Flask web application powered by NEWS API.
@@ -18,3 +19,11 @@ Simple Javascript, HTML & CSS examples for beginners
 
 Developed by: [Arun S](https://github.com/nuras1999)
 <br>Click <a href="https://github.com/nuras1999/simple-javascript-examples" target="_blank">here</a> to see the repository 
+
+<h3 id="LMS using Python Django">LMS using Python Django</h3>
+
+A simple LMS system developed using Python Django
+
+Developed by: [Ajay ](https://github.com/ajayyogesh1)
+
+<br>Click <a href="https://github.com/ajayyogesh1/Lms" target="_blank">here</a> to see the repository
