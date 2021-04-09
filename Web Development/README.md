@@ -25,5 +25,4 @@ Developed by: [Arun S](https://github.com/nuras1999)
 A simple LMS system developed using Python Django
 
 Developed by: [Ajay ](https://github.com/ajayyogesh1)
-
 <br>Click <a href="https://github.com/ajayyogesh1/Lms" target="_blank">here</a> to see the repository
