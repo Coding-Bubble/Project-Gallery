@@ -39,7 +39,7 @@ Developed by: [ Gowtham S](https://github.com/gowtham758550)
 
 <h3 id="Metadata-Remover">Metadata-Remover</h3>
 
-<img src="https://github.com/Anish-M-code/Metadata-Remover/raw/master/Screen%20Shots/Scan.JPG">
+<img src="https://github.com/Anish-M-code/Metadata-Remover/raw/master/screenshots/Scan.JPG" width="677" height="345">
 
 A simple Metadata Removal Tool for images and videos using exiftool and ffmpeg in C and Python3.
 
