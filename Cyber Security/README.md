@@ -62,9 +62,6 @@ Just requires a careless person to get his Windows Admin password.
 Developed by: [ Arun S ](https://github.com/nuras1999)
 <br>Click <a href="https://github.com/nuras1999/windows-password-phishing" target="_blank">here</a> to see the repository 
 
-<h3 id="CyberSecurity-Collection">CyberSecurity-Collection</h3>
-
-This Repository contains Programs which created to learn more about state of computer security.
 
 Developed by: [ Anish M ](https://github.com/Anish-M-code)
 <br>Click <a href="https://github.com/Anish-M-code/CyberSecurity-Collection" target="_blank">here</a> to see the repository 
