@@ -39,7 +39,7 @@ Developed by: [ Gowtham S](https://github.com/gowtham758550)
 
 <h3 id="Metadata-Remover">Metadata-Remover</h3>
 
-<img src="https://github.com/Anish-M-code/Metadata-Remover/raw/master/Screen%20Shots/Scan.JPG">
+<img src="https://github.com/Anish-M-code/Metadata-Remover/raw/master/screenshots/Scan.JPG" width="677" height="345">
 
 A simple Metadata Removal Tool for images and videos using exiftool and ffmpeg in C and Python3.
 
@@ -62,9 +62,6 @@ Just requires a careless person to get his Windows Admin password.
 Developed by: [ Arun S ](https://github.com/nuras1999)
 <br>Click <a href="https://github.com/nuras1999/windows-password-phishing" target="_blank">here</a> to see the repository 
 
-<h3 id="CyberSecurity-Collection">CyberSecurity-Collection</h3>
-
-This Repository contains Programs which created to learn more about state of computer security.
 
 Developed by: [ Anish M ](https://github.com/Anish-M-code)
 <br>Click <a href="https://github.com/Anish-M-code/CyberSecurity-Collection" target="_blank">here</a> to see the repository 
